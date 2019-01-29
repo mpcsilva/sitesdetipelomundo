@@ -32,4 +32,4 @@
 * [Vietnã](paises/vietna.md)
 
 
-Crédito a [Anderson Moreira.] ()
+Crédito á Anderson Moreira.
